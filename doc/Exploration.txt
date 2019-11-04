@@ -1,0 +1,124 @@
+**An Attempt to solve Issue of Water crisis in Tirunelveli, Tamil Nadu** by Rick Rejeleene
+                                                                              August 2019
+
+
+Introduction:
+
+This article is an attempt to solve water crisis in Tirunelveli, Tamil Nadu. Tirunelveli is located in Southern India. It is a district in state of Tamil Nadu, India. The author is attempting to solve a core human need and necessity in Tamil Nadu
+
+By water crisis, we define as lack in availability of tools to search, measure, maintain available water resources. 
+
+Ever since 2018, the author has been persistent in inventing novel tools to help people tackle water crisis and manage water resource. This comes from facing water crisis in a small rural town in Tirunelveli. In 2019, during the author’s visit to Chennai, India, water crisis seem to reach peak heights. In Apartments, water is available only for 4 hours in 24 hours. As a result, daily life is interrupted and the author resolved to figure out a solution for this real world problem. 
+
+Scope of Invention:
+
+Water is a basic necessity. This issue not only affects the farm in Parthipadu, Tamil Nadu but can be applied to other areas in Tamil Nadu, India. 
+
+On solving the issue in Parthipadu, one can abstract the same invention to similar issues. 
+Numerous farms, residential areas, industrial areas in Tamil Nadu. If successful, the solution/invention would spread outside of Tamil Nadu. It can impact a billion people in India. 
+
+Issue: 
+In Parthipadu, Tamil Nadu, a semi-arid area with five acre of land. A Farmer is struggling to make his farm productive. The heart of the farm is water. 
+
+He has four or five bore-well. A bore-well is dug underground randomly using a truck that contains a machine to dig underground. He selects in his five acres. 
+
+Average depth of the bore-well is around 500 feet. Each time he spends about $1000 to find out water and dig underground. He either hits or misses, it is boom or bust. 
+
+Search: 
+
+Method to find bore-well: 
+1) Dowsing Method
+	a) A local villager holds a neem stick
+	b) He walks around and feels water-underground through his veins
+	c) He marks and estimates water is at 50 ft
+2) A truck that has a digging equipment is called 
+3) The truck digs in the marked location
+	a) Either it finds or fails to find water
+4) This is the localized method to find water for 72 million people in Tamil Nadu, India
+
+The author thinks this method is antiquated. 
+
+Issues: 
+a) High risk, 80% of time, water is not found 
+b) Water dries up 
+
+A novel method to find water underground: 
+
+We propose a new method to find water-underground 
+
+
+GPR: 
+Geologists can measure the density of underground rocks by sending radio waves into the ground and measuring the speed with which they reflect back to the surface
+
+10 features to detect water?
+- Hydrogen
+- Oxygen
+- Water density is less than 1g
+- High Polarity 
+- Molecular Mass 18.0151
+- Electrical Conductivity 5.7 x 10^-8
+
+Features that would set water apart from Soil
+
+
+Prototype 1: 
+a) Generate GPR waves
+b) Send GPR waves underground 
+c) Display results in prototype device
+d) Create borehole imaging in prototype device
+
+Prototype_2:_
+a) Generate  seismic waves.
+b) Geophone picks up vibrations
+c) Create borehole imaging in prototype device
+
+Prototype 3: 
+a) Drone maps out surface area
+b) Drone then sends GPR wave 
+c) Create surface image in cloud software 
+
+**Measure: **
+
+A novel method to measure water underground: 
+
+Create simulation of water underground
+
+Seismic waves: 
+Mechanical perturbation that travel in Earth. Seismic impedance Z is Z = Vp
+V is seismic wave velocity, 
+p is density of rock 
+
+If Seismic waves pass through rock and water underground, some are reflected and refracted. 
+
+
+Ground Penetrating Radar: 
+
+
+Schematics: 
+
+1) Antenna
+	a) transmitter
+	b) receiver 
+record two way travel time 
+amplitude of the signal (strength of signal coming back)
+If antenna uses, High frequency, then shallow depth, smaller targets. If antenna uses low frequency, deeper depth, larger target. 
+
+
+Maintain Available Water resource: 
+
+In order for one to be effective, one has to maintain available water resource. 
+From the search tools, one can figure out how much water is underground. Now  once we have found where water is located and how much water is available. We have to figure out water usage and availability 
+
+Availability is total water resource present in the area. To find out how much water is consumed, we can give every day water usage in the prototype, it will give number of days, water would last. 
+
+
+
+Desired Outcome: 
+a) Able to detect water underground
+b) Able to detect amount of water 
+c) Able to give a calculation of how long water would last based on consumption
+d) Able to maintain water resources through technology tools
+
+
+
+
