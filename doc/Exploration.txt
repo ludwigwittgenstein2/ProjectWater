@@ -1,3 +1,4 @@
+__IN_PROGRESS__
 **An Attempt to solve Issue of Water crisis in Tirunelveli, Tamil Nadu** by Rick Rejeleene
                                                                               August 2019
 
@@ -15,18 +16,35 @@ Scope of Invention:
 Water is a basic necessity. This issue not only affects the farm in Parthipadu, Tamil Nadu but can be applied to other areas in Tamil Nadu, India. 
 
 On solving the issue in Parthipadu, one can abstract the same invention to similar issues. 
+
 Numerous farms, residential areas, industrial areas in Tamil Nadu. If successful, the solution/invention would spread outside of Tamil Nadu. It can impact a billion people in India. 
 
 Issue: 
+
 In Parthipadu, Tamil Nadu, a semi-arid area with five acre of land. A Farmer is struggling to make his farm productive. The heart of the farm is water. 
 
 He has four or five bore-well. A bore-well is dug underground randomly using a truck that contains a machine to dig underground. He selects in his five acres. 
 
-Average depth of the bore-well is around 500 feet. Each time he spends about $1000 to find out water and dig underground. He either hits or misses, it is boom or bust. 
+Average depth of the bore-well is around 500 feet. Each time he spends about $2000 to find out water and dig underground. He either hits or misses, it is boom or bust. 
+
+
+Water:
+
+Water is heart of life for human beings. In Tirunelveli, Tamil Nadu, it is no different from any other place on the planet. Unfortunately, this core 
+
+issue has not been given enough attention.
+
+
+Current Methods: 
+
+1) Search
+2) Boom or Bust
+
 
 Search: 
 
 Method to find bore-well: 
+
 1) Dowsing Method
 	a) A local villager holds a neem stick
 	b) He walks around and feels water-underground through his veins
@@ -42,10 +60,18 @@ Issues:
 a) High risk, 80% of time, water is not found 
 b) Water dries up 
 
-A novel method to find water underground: 
 
-We propose a new method to find water-underground 
+Boom or Bust: 
 
+Out of 20 random hits on locations to find water, 2-3 are successful. 
+
+The average success is 15% with abysmal tools to measure, monitor and manage water. 
+
+We propose a novel method to resolve the above issues and improve sucess rate to a higher level to find water underground: 
+
+We propose a new method to tackle the above issues.
+
+A Novel Approach to Search, Measure, Montior and Manage Underground-Water:
 
 GPR: 
 Geologists can measure the density of underground rocks by sending radio waves into the ground and measuring the speed with which they reflect back to the surface
